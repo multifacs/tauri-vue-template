@@ -25,6 +25,7 @@ dist-ssr
 
 .vscode/settings.json
 src-tauri/target
+src-tauri/Microsoft.WebView2.FixedVersionRuntime.105.0.1343.27.x64
 
 .env
 LOCAL_NOTES.md
